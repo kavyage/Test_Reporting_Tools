@@ -1,4 +1,4 @@
-This tool is to generate testrun execution report  overal test report.
+This tool is to generate testrun execution report & overal test report.
 
 #Tools Integrated:
 Testrail for testcases
