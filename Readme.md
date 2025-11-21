@@ -1,8 +1,8 @@
 This tool is to generate testrun execution report & overal test report.
 
 #Tools Integrated:
-Testrail for testcases
-Jira for defects
+* Testrail for testcases
+* Jira for defects
 
 #How to use the tool:
 * update required user emails in Tar.java/testrun.java
